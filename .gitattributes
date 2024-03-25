@@ -1,3 +1,7 @@
 严禁用作商业盈利用途！！！.txt filter=lfs diff=lfs merge=lfs -text
 我的小鲨鱼.html filter=lfs diff=lfs merge=lfs -text
 资源 filter=lfs diff=lfs merge=lfs -text
+[user]
+name = xiaoyu5201687
+email = xiaoyu5201687@outlook.com
+index.html filter=lfs diff=lfs merge=lfs -text
